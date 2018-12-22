@@ -11,6 +11,8 @@ Ubuntu 18.04 xubuntu dist.
 <p>Write the command to write the output from the tiny programming language in <strong>syntax_tree_output.png</strong></p> 
 
 ```c++
+git clone https://github.com/mohamedelshorbagy/Tiny-parser-python
+cd Tiny-parser-python/
 cd dist/parser/
 ./parser
 ```
